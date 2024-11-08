@@ -1,3 +1,7 @@
+/* eslint-disable linebreak-style */
+// eslint-disable-next-line linebreak-style
+// eslint-disable-next-line linebreak-style
+// eslint-disable-next-line linebreak-style
 export default function outsideClick(element, events, callback) {
   const html = document.documentElement;
   const outside = 'data-outside';
